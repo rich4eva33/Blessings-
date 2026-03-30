@@ -1,0 +1,12 @@
+•	options_day_trader_bot.py
+	•	requirements.txt
+	•	.env
+pip install -r requirements.txt
+python options_day_trader_bot.py
+TRADIER_BASE_URL=https://api.tradier.com/v1
+TRADIER_TOKEN=your_token
+TRADIER_ACCOUNT_ID=your_account
+DRY_RUN=false
+DISCORD_WEBHOOK=your_webhook
+EMAIL_ENABLED=true
+...
